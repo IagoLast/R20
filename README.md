@@ -1,5 +1,8 @@
 # Radar 2020 Tech Test
 
+Realiza el test [AQUI](https://iagolast.github.io/R20/)
+
+
 El R20 test es un test que se propone como alternativa al Test de Joel para medir de forma objetiva la calidad de proceso de software.
 
 Basado en https://github.com/viraptor/reverse-interview
