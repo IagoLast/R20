@@ -10,7 +10,7 @@ Basado en https://github.com/viraptor/reverse-interview
 
 ## 1. Tecnología
 
-### 1.1 Código fuente
+### 1.1 Código fuente
 
 a) ¿Se utiliza algún sistema de control de versiones?
 
