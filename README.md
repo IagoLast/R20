@@ -13,7 +13,7 @@ Basado en https://github.com/viraptor/reverse-interview
 
 ## 1. Tecnología
 
-### 1.1 Código fuente
+### 1.1 Control de Versiones
 
 a) ¿Se utiliza algún sistema de control de versiones?
 
@@ -37,15 +37,17 @@ d) ¿Se utilizan tests para asegurar el correcto funcionamiento del software?
 
 e) ¿Se utiliza TDD como metodología para escribir código?
 
-### 1.3 Integración continua & despliegues
+### 1.3 Despliegues
 
-a) ¿Se puede desplegar una nueva versión sin parar de dar servicio?
+a) ¿Se puede reproducir integramente un despliegue?
 
-b) ¿Se puede desplegar una nueva versión de forma automatizada?
+b) ¿Se puede desplegar una nueva versión sin parar de dar servicio?
 
-c) ¿Se puede desplegar automáticamente el código subido a una rama concreta?
+c) ¿Se puede desplegar una nueva versión de forma automatizada?
 
-d) ¿Se puede tener la configuración de la infraestructura en el control de versiones?
+d) ¿Se puede desplegar automáticamente el código subido a una rama concreta?
+
+e) ¿Se puede tener la configuración de la infraestructura en el control de versiones?
 
 ### 1.4 Entornos
 
